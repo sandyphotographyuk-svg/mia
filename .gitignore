@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+mia.db
+node_modules/
+dist/
+.venv/
+venv/
+.venv-phase*/
+outputs/
+*.png
+*.gif
